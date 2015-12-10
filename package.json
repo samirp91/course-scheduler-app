@@ -4,11 +4,11 @@
   "scripts": {
     "start": "node ./bin/www"
   },
-    "repository": {
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/Jaacky/project-team12-L0101.git"
   },
-    "bugs": {
+  "bugs": {
     "url": "https://github.com/Jaacky/project-team12-L0101/issues"
   },
   "homepage": "https://github.com/Jaacky/project-team12-L0101#readme",
@@ -20,6 +20,9 @@
     "jade": "~1.11.0",
     "morgan": "~1.6.1",
     "serve-favicon": "~2.3.0"
-  }
-  "main":"./bin/www"
+  },
+  "main": "./bin/www",
+  "description": "If you would like to contribute, feel free to fork this repo and make pull requests.   To start this application, you must have node.js installed.   Once you've installed it, run the following commands:   ```  npm init npm install npm start ``` During npm init, keep the default settings. You can change them if you want to but the default works fine.   The default host is `localhost:3000`.",
+  "author": "",
+  "license": "ISC"
 }
