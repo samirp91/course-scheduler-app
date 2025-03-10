@@ -1,4 +1,4 @@
-# U of T Schedule Generator
+tes# U of T Schedule Generator
 ### Welcome to U of T Schedule Generator
 If you would like to contribute, feel free to fork this repo and make pull requests.  
 To start this application, you must have node.js installed.  
